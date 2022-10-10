@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jess Budd</h1>
 <h3 align="center">An accessibility focused front-end developer from Australia</h3>
 
-- 📝 I sometimes write stuff on [https://jessbudd.com/blog](https://jessbudd.com/blog)
+- I sometimes write stuff on [jessbudd.com/blog](https://jessbudd.com/blog)
+- I tweet about a11y, web development and tech stuff on [twitter](https://twitter.com/jessbudd4)
 
-<p align="left"> <a href="https://twitter.com/jessbudd4" target="blank"><img src="https://img.shields.io/twitter/follow/jessbudd4?logo=twitter&style=for-the-badge" alt="jessbudd4" /></a> </p>
-
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
