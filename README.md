@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jess Budd</h1>
-<h3 align="center">An accessibility focused front-end developer from Australia</h3>
+<h3 align="center">An accessibility focused software engineer from Australia</h3>
 
 - I sometimes write stuff on [jessbudd.com/blog](https://jessbudd.com/blog)
 - I tweet about a11y, web development and tech stuff on [twitter](https://twitter.com/jessbudd4)
